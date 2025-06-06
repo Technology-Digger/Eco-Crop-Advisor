@@ -6,9 +6,6 @@ The Crop prediction Model leverages machine learning algorithms for the classifi
 
 ![Crop Detection Model Overview](https://i.postimg.cc/85z4Zj0n/Screenshot-2025-01-26-170806.png)
 
-
-![Crop Detection Model Overview](https://i.postimg.cc/25ZLrmB8/Screenshot-2025-01-26-170826.png)
-
 ### Project Pipeline
 
 ----------- **Data Collection & Preprocessing** -----------  
